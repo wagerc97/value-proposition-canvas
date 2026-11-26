@@ -1,0 +1,11 @@
+{
+  "name": "value-proposition-canvas",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"*.html\"",
+    "format:check": "prettier --check \"*.html\""
+  },
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
+}
